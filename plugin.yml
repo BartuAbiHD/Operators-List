@@ -1,0 +1,10 @@
+name: OperatorsList
+version: 1.2
+main: com.bartuabihd.oplist.OPList
+author: BartuAbiHD
+description: Show operators.
+
+commands:
+  oplist:
+    description: Show operators.
+    usage: /oplist
