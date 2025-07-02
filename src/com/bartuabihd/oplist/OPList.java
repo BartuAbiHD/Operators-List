@@ -30,7 +30,7 @@ public class OPList extends JavaPlugin {
                 this.getLoggerColored(ChatColor.GRAY + "[" + ChatColor.BLUE + "OperatorsList" + ChatColor.GRAY + "] " + ChatColor.RED + "A new update of the plugin is not available.");
             }
             else {
-                this.getLoggerColored(ChatColor.GRAY + "[" + ChatColor.BLUE + "OperatorsList" + ChatColor.GRAY + "] " + ChatColor.GREEN + "The plugin has a new update. Download link: http://bit.ly/mcpldownloadermc");
+                this.getLoggerColored(ChatColor.GRAY + "[" + ChatColor.BLUE + "OperatorsList" + ChatColor.GRAY + "] " + ChatColor.GREEN + "The plugin has a new update. Download link: https://www.spigotmc.org/resources/operatorslist.126579/");
             }
         });
 	}
